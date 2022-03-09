@@ -1,4 +1,4 @@
-module example/user/hello
+module github.com/ilyas-shah/go-hello
 
 go 1.17
 
